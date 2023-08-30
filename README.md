@@ -4,3 +4,4 @@
 https://github.com/AnanduDipukumar/8-bit-Standalone-CPU/assets/95430576/154a7d90-8fc4-4227-bcd9-680360d1c4db
 
 we use an arduino nano as a programmer to upload assembly language our cpu
+![Screenshot 2023-08-30 172238](https://github.com/AnanduDipukumar/8-bit-Standalone-CPU/assets/95430576/fe0f5426-f434-484e-b59a-7bb43574ba1e)
